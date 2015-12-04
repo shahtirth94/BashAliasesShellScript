@@ -2,7 +2,7 @@
 
 Did you ever have trouble keeping up with Dr. Im because you had to type out each and every command, while he used to use the handy aliases like rs, ss, and hh? And you never were able to figure out how to create the aliases in the first place.  
 
-Well, now, you can use the simple and easy shell scripts here to add common aliases, create your own new alias, and delete previous ones!
+Well, now, you can use the simple and easy shell scripts here to add some common aliases, create your own new alias, and delete previous ones!
 Problem solved!
 
 Includes 3 Scripts
@@ -18,6 +18,7 @@ To use:
 2. cd into it from C9
 
 3. Run any one of the scripts with this command: sh script_name.sh
+
 
 NOTE: 
 
