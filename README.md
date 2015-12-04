@@ -1,6 +1,7 @@
 # BashAliasesShellScript
 
-3 Scripts:
+Includes 3 Scripts
+
 basicAliases : downloads aliases for the four most used bash commands from our class directly into your .bash_aliases file
 userAlias: lets you create a new alias for a commands you use very often saved directly into your .bash_aliases file
 deleteLastAlias: undo the last alias written into the .bash_aliases file
