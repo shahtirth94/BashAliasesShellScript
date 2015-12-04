@@ -14,8 +14,14 @@ To use:
 
 3. Run any one of the scripts with this command: sh script_name.sh
 
-Note: The basicAliases shell script adds the following 3 aliases into your .bash_aliases file:
+NOTE: 
+
+The basicAliases shell script adds the following 4 aliases into your .bash_aliases file:
+
 alias ss='ruby app.rb -p $PORT -o $IP'
+
 alias sq='sudo service postgresql start'
+
 alias rs='rails server -p $PORT -b $IP'
+
 alias hh='echo $C9_HOSTNAME'
